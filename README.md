@@ -19,8 +19,8 @@ provides two-way sync with Google Calendar and private backup to Google Drive.
 
 ## 法務文書 / Legal
 
-- [利用規約 / Terms of Service](./terms)
-- [プライバシーポリシー / Privacy Policy](./privacy-policy)
+- [利用規約 / Terms of Service](https://support-koyomi.github.io/koyomi-docs/terms)
+- [プライバシーポリシー / Privacy Policy](https://support-koyomi.github.io/koyomi-docs/privacy-policy)
 
 ## 開発者・お問い合わせ / Developer & Contact
 
