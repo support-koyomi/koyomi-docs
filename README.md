@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: default
 title: こよみちゃん (Koyomi chan) サポートサイト
@@ -27,4 +26,3 @@ provides two-way sync with Google Calendar and private backup to Google Drive.
 
 - 開発者 / Developer: XwingCat
 - お問い合わせ / Contact: xwing.koyomi@gmail.com
-```
